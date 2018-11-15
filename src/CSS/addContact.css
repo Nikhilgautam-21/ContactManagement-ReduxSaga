@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+.Card-Body{
+  margin-top: 50px;
+  width: 80%;
+  margin-left: 20px;
+}
+
+.Toolbar{
+
+  justify-content: center;
+  background-color: #61abc9;
+}
+
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+.Form-Main{
+   Padding:40px;
+}
+
+.CardHeader{
+
+  background-color: #8db8c9;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#btn_submit{
+
+  background-color: #4aa5c9;
+}
+
+
